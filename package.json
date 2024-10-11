@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "natural": "^8.0.1",
-    "wordnet-db": "^3.1.14"
+    "axios": "^0.28.1"
   }
 }
